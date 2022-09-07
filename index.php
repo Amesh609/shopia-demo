@@ -1,1 +1,1 @@
-<?php include("Shopia.html"); ?>
+<?php include("shopia.html"); ?>
